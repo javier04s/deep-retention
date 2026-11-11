@@ -232,7 +232,3 @@ Se abre en el navegador (http://localhost:8501) con tres secciones:
 ```bash
 python -m pytest -v
 ```
-
-## Informe ejecutivo
-
-📄 *Disponible al finalizar el proyecto.*
